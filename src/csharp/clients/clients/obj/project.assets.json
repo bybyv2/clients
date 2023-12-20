@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmation\\clients\\clients\\clients\\clients.csproj",
+      "projectUniqueName": "D:\\Programmation\\clients\\src\\csharp\\clients\\clients\\clients.csproj",
       "projectName": "clients",
-      "projectPath": "D:\\Programmation\\clients\\clients\\clients\\clients.csproj",
+      "projectPath": "D:\\Programmation\\clients\\src\\csharp\\clients\\clients\\clients.csproj",
       "packagesPath": "C:\\Users\\pj81tfz\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmation\\clients\\clients\\clients\\obj\\",
+      "outputPath": "D:\\Programmation\\clients\\src\\csharp\\clients\\clients\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

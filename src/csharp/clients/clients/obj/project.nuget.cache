@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LXmbVyUFR7fhVI0h/R+WquXzHhINOB3by07EA/j9uyG6YZcwa6MpSbclBo0TLRK6nuQksMSvvPHQfBXxmbPYrw==",
+  "dgSpecHash": "FbhjR1/UHqWM8YkX/IyUlaY9A/Y0CjTpk4WPHpKdl1jg0OewbTnWIeqrycfKL+XLnoEDv7aBIui0eC8oBsM8RA==",
   "success": true,
-  "projectFilePath": "D:\\Programmation\\clients\\clients\\clients\\clients.csproj",
+  "projectFilePath": "D:\\Programmation\\clients\\src\\csharp\\clients\\clients\\clients.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
