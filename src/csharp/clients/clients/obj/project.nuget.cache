@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FbhjR1/UHqWM8YkX/IyUlaY9A/Y0CjTpk4WPHpKdl1jg0OewbTnWIeqrycfKL+XLnoEDv7aBIui0eC8oBsM8RA==",
+  "dgSpecHash": "e9fHUbCEqHLpFX9w0H/MW1e33SEl2fTaRrHhvQvpj1WAyc1Z2M4N1krTp+dsFJKEe/Q06Vz1ox7vIQ6Sf2Qm0Q==",
   "success": true,
   "projectFilePath": "D:\\Programmation\\clients\\src\\csharp\\clients\\clients\\clients.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pj81tfz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\pj81tfz\\.nuget\\packages\\mysqlconnector\\2.3.3\\mysqlconnector.2.3.3.nupkg.sha512",
+    "C:\\Users\\pj81tfz\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\pj81tfz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
